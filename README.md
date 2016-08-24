@@ -21,4 +21,4 @@ Fantastic Websites. 整理一些高价值网站。
 - [看准网](kanzhun.com)会有各个公司的薪资、面试内容和评价。
 - [glassdoor](glassdoor.com)是个英文网站，功能和看准网相同，看外企比较方便。     
 
-持续更新。。。欢迎star
+**持续更新。。。欢迎star**
