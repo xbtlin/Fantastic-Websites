@@ -23,7 +23,7 @@ Fantastic Websites. 整理一些高价值网站。
 - [glassdoor](glassdoor.com)是个英文网站，功能和看准网相同，看外企比较方便。     
 
 ## GTD类    
-生活习惯游戏平台[HabitRPG](http://habitrpg.com)    
+- 生活习惯游戏平台[HabitRPG](http://habitrpg.com)    
 
 
 **持续更新。。。欢迎star，欢迎提PR**
