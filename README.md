@@ -10,7 +10,8 @@ Fantastic Websites. 整理一些高价值网站。
 
 ##学习类
 ### 语言类   
-- 学习外语，找到外语为母语的人和你互相学习自己的母语。[Lang-8](http://lang-8.com/)     
+- 学习外语，找到外语为母语的人和你互相学习自己的母语。[Lang-8](http://lang-8.com/)        
+- [小站托福](http://toefl.zhan.com/)，可以免费做模拟真题。
 
 ### IT技术类    
 - 学习web开发[中文网站](http://www.w3school.com.cn/)
